@@ -7,8 +7,8 @@ date: 06/12/2017
 """
 
 from numpy import *
-from clzhang.dl.fastai.utils import *
-from clzhang.dl.fastai.lesson1.vgg16 import Vgg16
+from util.utils import *
+from vgg.vgg16 import Vgg16
 
 test_type = 'test_B/'
 predict_result_path = "JDD_contest/predict_result_5_64_testB_clzhang.csv"
