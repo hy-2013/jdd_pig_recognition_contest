@@ -1,5 +1,5 @@
 # jdd_pig_recognition_contest
-the python source code of JDD (Jing Dong Discovery) pig recognition contest.
+The python source code of JDD (Jing Dong Discovery) pig recognition contest (https://jddjr.jd.com/item/4).
 
 ### 1. 软件环境
 * tensorflow：0.10.0rc0
